@@ -1,5 +1,5 @@
 // Vezba03b.cpp : This file contains the 'main' function. Program execution begins and ends there.
-// Sortiranje - Selection sort - optimalna verzija	
+// Sortiranje - Selection sort - optimalna nova verzija	
 #include <stdio.h>
 int main()
 {
